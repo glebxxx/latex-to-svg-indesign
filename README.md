@@ -1,5 +1,5 @@
 Latex to SVG / InDesign Script
-
+<img src="https://github.com/glebxxx/latex-to-svg-indesign/blob/main/preview.png?raw=true">
 - Download as the file "Latex-to-SVG.JSX"
 - Put into /Users/Library/Preferences/Adobe InDesign/*version*/Scripts/Scripts Panel/
 - Place formula like \int \frac{1}{x} dx = \ln \left| x \right|
