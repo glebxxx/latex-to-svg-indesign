@@ -8,3 +8,5 @@ Latex to SVG / InDesign Script
 - Script save SVG and TXT next to document into the folder /Latex_Document Name/ 
 - Close the script
 - Script place SVG file into INDD document
+
+More info: <a href="http://glebosipov.com/latex-svg/">glebosipov.com/latex-svg/</a>
