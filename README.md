@@ -4,7 +4,7 @@ Latex to SVG / InDesign Script
 - Put into /Users/Library/Preferences/Adobe InDesign/*version*/Scripts/Scripts Panel/
 - Place formula like \int \frac{1}{x} dx = \ln \left| x \right|
 - Press Generate SVG
-- Script make request to latex.codecogs.com and receive SVG
+- Script make request to <a href="https://latex.codecogs.com/">latex.codecogs.com</a> and receive SVG
 - Script save SVG and TXT next to document into the folder /Latex_Document Name/ 
 - Close the script
 - Script place SVG file into INDD document
